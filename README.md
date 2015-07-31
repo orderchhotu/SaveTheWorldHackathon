@@ -16,7 +16,8 @@ The job will require multiple systems to streamline the process, choose one whic
 2. A system to trade your resources in exchange of 'Kards'
 3. A system to pre-book resources on Biome-1109
 4. A central monitoring system of resources and trading
-5. Your idea to help save the world
+5. An algorithm to priorotize selection of the people based on total kards (e.g. value of kards should be defined by tangible(physical resources) and intangible(education, contribution to the community) value of persion)
+6. Your idea to help save the world
 
 #####Assumptions:
 Every person on the earth has at least one smart phone with data connectivity, through intelligent migration the same will work on Biome-1109.
